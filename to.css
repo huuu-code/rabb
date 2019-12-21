@@ -1,0 +1,63 @@
+.header{
+    height: 100px;
+    background-color: rgb(197, 198, 198);
+}
+.text{
+    font-family:"Microsoft Yahei";
+    font-size: 60px; 
+    font-weight: bold;
+    line-height: 100px;
+}
+.texts{
+    height: 100px;
+    width: 1100px;
+    float: right;
+}
+.texts input{
+    height: 80px;
+    width: 700px; font-size: 30px;
+    margin-top: 10px;margin-left: 200px;
+    border-radius: 5px; 
+}
+.list{
+    height: 680px;
+    widows: auto;
+    padding: 0 10%;
+    margin: 0 auto;
+}
+.list p{
+    font-size: 30px;
+    font-weight: bold;
+    color: gray; 
+    text-indent: 50px;
+}
+li{
+    border-radius: 5px;
+    text-indent: 10px;
+    margin-top: 7px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 30px;
+    background-color: rgb(220, 217, 217);
+}
+button{
+    cursor: pointer;
+    border-radius: .3em;
+    float: right;
+    font-size: 20px; 
+    background-color:grey;
+    box-shadow: 0 1px white inset;
+    color:white;
+    font-weight: bold;
+}
+.footer{
+    text-align: center;
+    background-color: rgb(242, 242, 242);
+}
+a{
+    cursor: pointer;
+    line-height: 80px;
+    font-size: 40px;
+    color: blue;
+    text-decoration: none;
+}
